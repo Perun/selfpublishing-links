@@ -11,3 +11,4 @@ Links zum Thema Erstellen von Bücher und E-Books und wie man sie vermarktet. Wi
 6. [DocRaptor](http://docraptor.com) – ein Dienst welcher mit Prince-PDF betrieben wird. Hier kann man schon 1b 15 US-Dollar pro Monat Dokumente einreichen. Habe es noch nicht getestet.
 7. [Prince-Test](http://tomayko.com/writings/princexml) – Artikel eines Autors der Prince getestet hat.
 8. [Get Started With GitHub Pages (Plus Bonus Jekyll)](http://24ways.org/2013/get-started-with-github-pages/) – längerer Artikel zum thema [GitHub-Pages](http://pages.github.com/).
+9. [CreateSpace](http://www.perun.net/2012/05/19/amazon-und-createspace-print-on-demand-auch-in-europa/) – Tochterfirma von Amazon wo Selfpublisher gedruckte Bücher veröffentlichen können (Print on Demand).
